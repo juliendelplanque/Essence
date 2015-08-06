@@ -1,0 +1,14 @@
+{
+	"category" : "Essence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"refuellingList" ],
+	"name" : "Refuellings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

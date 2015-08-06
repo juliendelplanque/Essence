@@ -1,0 +1,17 @@
+{
+	"category" : "Essence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"date",
+		"volume",
+		"cost",
+		"km" ],
+	"name" : "Refuelling",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
