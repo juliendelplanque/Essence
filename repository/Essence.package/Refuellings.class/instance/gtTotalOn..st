@@ -1,6 +1,6 @@
 as yet unclassified
 gtTotalOn: t1
-	<gtInspectorPresentationOrder: 2>
+	<gtInspectorPresentationOrder: 4>
 	t1 table
 		title: 'Total';
 		display: [ 

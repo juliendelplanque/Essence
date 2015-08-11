@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addRefuelling:" : "JulienDelplanque 8/11/2015 20:44",
+		"cost" : "JulienDelplanque 8/11/2015 20:38",
+		"gtRefuellingsOn:" : "JulienDelplanque 8/11/2015 20:38",
+		"initialize" : "JulienDelplanque 8/11/2015 20:38",
+		"refuellingCount" : "JulienDelplanque 8/11/2015 20:39",
+		"refuellingList" : "JulienDelplanque 8/11/2015 20:39",
+		"volume" : "JulienDelplanque 8/11/2015 20:39",
+		"year" : "JulienDelplanque 8/11/2015 20:39" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "Essence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"year",
+		"volume",
+		"cost",
+		"refuellingCount",
+		"refuellingList" ],
+	"name" : "YearRefuellings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

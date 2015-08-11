@@ -4,8 +4,10 @@
 	"instance" : {
 		"addRefuelling:" : "JulienDelplanque 8/6/2015 18:17",
 		"cost" : "JulienDelplanque 8/6/2015 17:38",
+		"gtRefuellingsOn:" : "JulienDelplanque 8/6/2015 20:53",
 		"initialize" : "JulienDelplanque 8/6/2015 18:17",
 		"month" : "JulienDelplanque 8/6/2015 17:38",
 		"refuellingCount" : "",
+		"refuellingList" : "JulienDelplanque 8/6/2015 20:54",
 		"volume" : "JulienDelplanque 8/6/2015 17:38",
 		"year" : "JulienDelplanque 8/6/2015 18:03" } }
