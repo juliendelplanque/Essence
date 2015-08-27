@@ -1,8 +1,5 @@
 *Essence
-aComposite table
-		title: 'Refuellings';
-		display: [ self refuellingList ];
-		column: 'Date' evaluated: [ :each | each date ];
-		column: 'Volume' evaluated: [ :each | each volume ];
-		column: 'Cost' evaluated: [ :each | each cost ];
-		column: 'Cost' evaluated: [ :each | [ each km ] ifNil: [ '---' ] ]
+fromEssenceString: aString
+	| list |
+	list := aString splitOn: '/'.
+	^self year: (list at: 3) asInteger month: (list at: 2) asInteger day: (list at: 1) asInteger
