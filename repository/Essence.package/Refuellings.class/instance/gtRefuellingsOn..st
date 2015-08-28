@@ -1,10 +1,10 @@
-as yet unclassified
+gt-inspector-extension
 gtRefuellingsOn: aComposite
 	<gtInspectorPresentationOrder: 1>
 	
 	aComposite table
 		title: 'Refuellings';
-		display: [ self refuellingList ];
+		display: [ self refuellingList sort: [ :x :y | x date < y date ] ];
 		column: 'Date' evaluated: [ :each | each date ] width: 150;
 		column: 'Volume (L)' evaluated: [ :each | each volume printShowingDecimalPlaces: 2 ] width: 70;
 		column: 'Cost (€)' evaluated: [ :each | each cost printShowingDecimalPlaces: 2 ] width: 60;

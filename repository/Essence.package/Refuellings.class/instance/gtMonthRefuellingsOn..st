@@ -1,4 +1,4 @@
-as yet unclassified
+gt-inspector-extension
 gtMonthRefuellingsOn: t1
 	<gtInspectorPresentationOrder: 2>
 	

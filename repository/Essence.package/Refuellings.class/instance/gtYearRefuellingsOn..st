@@ -1,4 +1,4 @@
-as yet unclassified
+gt-inspector-extension
 gtYearRefuellingsOn: t1
 	<gtInspectorPresentationOrder: 3>
 	

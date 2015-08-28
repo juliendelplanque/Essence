@@ -1,4 +1,4 @@
-as yet unclassified
+gt-inspector-extension
 gtTotalOn: t1
 	<gtInspectorPresentationOrder: 4>
 	t1 table

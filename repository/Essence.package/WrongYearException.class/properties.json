@@ -1,0 +1,14 @@
+{
+	"category" : "Essence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WrongYearException",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }
