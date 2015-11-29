@@ -1,13 +1,15 @@
 {
 	"class" : {
-		"fromXMLNode:" : "JulienDelplanque 8/5/2015 19:07" },
+		"fromXMLNode:" : "JulienDelplanque 11/29/2015 17:53" },
 	"instance" : {
+		"carName" : "JulienDelplanque 11/29/2015 17:52",
+		"carName:" : "JulienDelplanque 11/29/2015 17:53",
 		"cost" : "JulienDelplanque 8/5/2015 18:35",
 		"cost:" : "JulienDelplanque 8/5/2015 18:35",
 		"costPerKm" : "JulienDelplanque 8/5/2015 19:14",
 		"date" : "JulienDelplanque 8/5/2015 18:35",
 		"date:" : "JulienDelplanque 8/5/2015 18:35",
-		"gtRefuellingsOn:" : "JulienDelplanque 8/27/2015 18:47",
+		"gtRefuellingsOn:" : "JulienDelplanque 11/29/2015 17:56",
 		"km" : "JulienDelplanque 8/5/2015 18:35",
 		"km:" : "JulienDelplanque 8/5/2015 18:35",
 		"volume" : "JulienDelplanque 8/5/2015 18:35",

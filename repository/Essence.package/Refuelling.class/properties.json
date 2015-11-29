@@ -4,8 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 11/29/2015 17:52",
 	"instvars" : [
+		"carName",
 		"date",
 		"volume",
 		"cost",

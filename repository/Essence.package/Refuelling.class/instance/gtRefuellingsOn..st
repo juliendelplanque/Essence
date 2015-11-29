@@ -4,6 +4,7 @@ gtRefuellingsOn: aComposite
 	
 	| dict |
 	dict := Dictionary newFrom: {
+				'Car' -> self carName.
 				'Cost' -> self cost.
 				'Date' -> self date.
 				'Volume' -> self volume.
