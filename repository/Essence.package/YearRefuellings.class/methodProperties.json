@@ -2,11 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addRefuelling:" : "JulienDelplanque 8/28/2015 10:43",
-		"cost" : "JulienDelplanque 8/11/2015 20:38",
-		"gtRefuellingsOn:" : "JulienDelplanque 8/11/2015 20:38",
-		"initialize" : "JulienDelplanque 8/11/2015 20:38",
-		"refuellingCount" : "JulienDelplanque 8/11/2015 20:39",
+		"addRefuelling:" : "JulienDelplanque 12/26/2015 20:49",
+		"gtMonthRefuellingsOn:" : "JulienDelplanque 12/26/2015 20:57",
+		"gtYearRefuellingsOn:" : "JulienDelplanque 12/26/2015 20:56",
 		"refuellingList" : "JulienDelplanque 8/11/2015 20:39",
-		"volume" : "JulienDelplanque 8/11/2015 20:39",
 		"year" : "JulienDelplanque 8/11/2015 20:39" } }

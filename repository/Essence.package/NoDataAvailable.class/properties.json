@@ -1,0 +1,14 @@
+{
+	"category" : "Essence-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NoDataAvailable",
+	"pools" : [
+		 ],
+	"super" : "EssenceException",
+	"type" : "normal" }

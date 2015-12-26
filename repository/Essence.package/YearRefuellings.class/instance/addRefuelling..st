@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 addRefuelling: t1
 	year isNil
 		ifTrue: [ 
@@ -7,7 +7,4 @@ addRefuelling: t1
 		ifFalse: [ 
 			(year = t1 date year)
 				ifFalse: [ WrongYearException signal ] ].
-	cost := cost + t1 cost.
-	volume := volume + t1 volume.
-	refuellingCount := refuellingCount + 1.
 	refuellingList add: t1

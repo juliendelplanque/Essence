@@ -4,15 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 12/26/2015 20:58",
 	"instvars" : [
-		"year",
-		"volume",
-		"cost",
-		"refuellingCount",
-		"refuellingList" ],
+		"year" ],
 	"name" : "YearRefuellings",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Refuellings",
 	"type" : "normal" }

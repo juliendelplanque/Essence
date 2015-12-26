@@ -1,0 +1,1 @@
+I represent a list of refuellings for a particular month.
