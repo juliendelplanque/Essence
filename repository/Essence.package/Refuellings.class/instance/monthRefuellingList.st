@@ -6,7 +6,7 @@ monthRefuellingList
 	self refuellingList
 		do: [ :refuelling | 
 			[ current addRefuelling: refuelling ]
-				on: Exception
+				on: WrongMonthException
 				do: [ 
 					list add: current.
 					current := MonthRefuellings new.
