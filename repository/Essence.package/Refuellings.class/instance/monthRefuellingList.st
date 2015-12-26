@@ -1,15 +1,3 @@
-as yet unclassified
+computing
 monthRefuellingList
-	| current list |
-	current := MonthRefuellings new.
-	list := OrderedCollection new.
-	self refuellingList
-		do: [ :refuelling | 
-			[ current addRefuelling: refuelling ]
-				on: WrongMonthException
-				do: [ 
-					list add: current.
-					current := MonthRefuellings new.
-					current addRefuelling: refuelling ] ].
-	list add: current.
-	^ list
+	^ self refuellingListFor: MonthRefuellings 

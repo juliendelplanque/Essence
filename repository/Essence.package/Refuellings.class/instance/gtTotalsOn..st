@@ -1,4 +1,4 @@
-as yet unclassified
+gt-inspector-extension
 gtTotalsOn: aComposite
 	<gtInspectorPresentationOrder: 4>
 	| data |

@@ -10,5 +10,5 @@
 	"name" : "WrongMonthException",
 	"pools" : [
 		 ],
-	"super" : "Exception",
+	"super" : "EssenceException",
 	"type" : "normal" }

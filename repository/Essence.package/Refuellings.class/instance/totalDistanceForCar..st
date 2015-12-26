@@ -1,4 +1,4 @@
-as yet unclassified
+computing
 totalDistanceForCar: aString
 	| kmArray |
 	kmArray := (self refuellingList reject: [ :refuelling | refuelling km isNil ])

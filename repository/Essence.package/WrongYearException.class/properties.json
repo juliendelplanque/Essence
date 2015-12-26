@@ -10,5 +10,5 @@
 	"name" : "WrongYearException",
 	"pools" : [
 		 ],
-	"super" : "Exception",
+	"super" : "EssenceException",
 	"type" : "normal" }
