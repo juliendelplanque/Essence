@@ -5,5 +5,5 @@ descriptionDate
 	^ MADateDescription new
 		accessor: #date;
 		label: 'Date';
-		prority: 30;
+		priority: 300;
 		yourself

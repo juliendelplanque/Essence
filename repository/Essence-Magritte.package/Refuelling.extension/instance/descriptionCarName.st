@@ -6,6 +6,6 @@ descriptionCarName
 		reference: MAStringDescription new;
 		accessor: #carName;
 		label: 'Car name';
-		priority: 10;
+		priority: 100;
 		beSorted;
 		yourself

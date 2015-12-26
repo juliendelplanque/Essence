@@ -5,6 +5,6 @@ descriptionVolume
 	^ MANumberDescription new
 		accessor: #volume;
 		label: 'Volume';
-		prority: 40;
+		priority: 500;
 		min: 0;
 		yourself

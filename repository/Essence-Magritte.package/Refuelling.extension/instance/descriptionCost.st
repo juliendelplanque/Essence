@@ -5,6 +5,6 @@ descriptionCost
 	^ MANumberDescription new
 		accessor: #cost;
 		label: 'Cost';
-		prority: 20;
+		priority: 200;
 		min: 0;
 		yourself

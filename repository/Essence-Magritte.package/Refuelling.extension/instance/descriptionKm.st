@@ -5,6 +5,6 @@ descriptionKm
 	^ MANumberDescription new
 		accessor: #km;
 		label: 'KM';
-		prority: 30;
+		priority: 400;
 		min: 0;
 		yourself
