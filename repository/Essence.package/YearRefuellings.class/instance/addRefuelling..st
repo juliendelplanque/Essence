@@ -1,10 +1,10 @@
 accessing
-addRefuelling: t1
+addRefuelling: aRefuelling
 	year isNil
 		ifTrue: [ 
-			year := t1 date monthName.
-			year := t1 date year ]
+			year := aRefuelling date monthName.
+			year := aRefuelling date year ]
 		ifFalse: [ 
-			(year = t1 date year)
+			(year = aRefuelling date year)
 				ifFalse: [ WrongYearException signal ] ].
-	refuellingList add: t1
+	refuellingList add: aRefuelling

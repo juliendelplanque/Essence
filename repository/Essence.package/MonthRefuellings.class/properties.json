@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 12/26/2015 20:46",
 	"instvars" : [
-		"month",
-		"year" ],
+		"month" ],
 	"name" : "MonthRefuellings",
 	"pools" : [
 		 ],
-	"super" : "Refuellings",
+	"super" : "YearRefuellings",
 	"type" : "normal" }
