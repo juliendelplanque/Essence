@@ -3,11 +3,15 @@
 		"fromFile:" : "JulienDelplanque 8/5/2015 18:50" },
 	"instance" : {
 		"addRefuelling:" : "JulienDelplanque 8/5/2015 18:48",
+		"carModels" : "JulienDelplanque 12/26/2015 20:15",
 		"gtMonthRefuellingsOn:" : "JulienDelplanque 12/26/2015 19:53",
 		"gtRefuellingsOn:" : "JulienDelplanque 11/29/2015 17:59",
-		"gtTotalOn:" : "JulienDelplanque 8/11/2015 20:45",
+		"gtTotalsOn:" : "JulienDelplanque 12/26/2015 20:22",
 		"gtYearRefuellingsOn:" : "JulienDelplanque 8/11/2015 20:45",
 		"initialize" : "JulienDelplanque 8/5/2015 18:47",
 		"monthRefuellingList" : "JulienDelplanque 12/26/2015 19:58",
 		"refuellingList" : "JulienDelplanque 8/5/2015 19:03",
-		"refuellingList:" : "JulienDelplanque 8/6/2015 19:38" } }
+		"refuellingList:" : "JulienDelplanque 8/6/2015 19:38",
+		"totalCost" : "JulienDelplanque 12/26/2015 20:10",
+		"totalDistanceForCar:" : "JulienDelplanque 12/26/2015 20:15",
+		"totalVolume" : "JulienDelplanque 12/26/2015 20:10" } }
