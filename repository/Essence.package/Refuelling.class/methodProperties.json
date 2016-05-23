@@ -1,16 +1,16 @@
 {
 	"class" : {
-		"fromXMLNode:" : "JulienDelplanque 11/29/2015 17:53" },
+		"fromXMLElement:" : "JulienDelplanque 5/23/2016 15:48",
+		"volume:cost:date:km:" : "JulienDelplanque 5/23/2016 16:25" },
 	"instance" : {
-		"carName" : "JulienDelplanque 11/29/2015 17:52",
-		"carName:" : "JulienDelplanque 11/29/2015 17:53",
-		"cost" : "JulienDelplanque 8/5/2015 18:35",
-		"cost:" : "JulienDelplanque 8/5/2015 18:35",
-		"costPerKm" : "JulienDelplanque 8/5/2015 19:14",
-		"date" : "JulienDelplanque 8/5/2015 18:35",
-		"date:" : "JulienDelplanque 8/5/2015 18:35",
-		"gtRefuellingsOn:" : "JulienDelplanque 11/29/2015 17:56",
-		"km" : "JulienDelplanque 8/5/2015 18:35",
-		"km:" : "JulienDelplanque 8/5/2015 18:35",
-		"volume" : "JulienDelplanque 8/5/2015 18:35",
-		"volume:" : "JulienDelplanque 8/5/2015 18:35" } }
+		"cost" : "JulienDelplanque 5/22/2016 21:20",
+		"cost:" : "JulienDelplanque 5/22/2016 21:20",
+		"date" : "JulienDelplanque 5/22/2016 21:20",
+		"date:" : "JulienDelplanque 5/22/2016 21:20",
+		"km" : "JulienDelplanque 5/22/2016 21:20",
+		"km:" : "JulienDelplanque 5/22/2016 21:20",
+		"month" : "JulienDelplanque 5/22/2016 21:28",
+		"volume" : "JulienDelplanque 5/22/2016 21:20",
+		"volume:" : "JulienDelplanque 5/22/2016 21:20",
+		"writeXMLOn:" : "JulienDelplanque 5/22/2016 22:13",
+		"year" : "JulienDelplanque 5/22/2016 21:28" } }

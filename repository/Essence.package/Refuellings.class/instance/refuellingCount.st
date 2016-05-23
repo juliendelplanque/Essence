@@ -1,3 +1,0 @@
-accessing
-refuellingCount
-	^refuellingList size

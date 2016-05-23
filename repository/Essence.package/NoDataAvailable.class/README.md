@@ -1,1 +1,0 @@
-I am the exception raised when no data is available in a refuelling object.

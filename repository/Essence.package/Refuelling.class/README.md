@@ -1,1 +1,1 @@
-I represent a refuelling of your car.
+I represent a refuelling, I have a date, a cost, a volume and a kilometrage.
