@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfEssence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfEssence",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
