@@ -1,0 +1,14 @@
+{
+	"category" : "Essence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 6/24/2017 09:58",
+	"instvars" : [
+		"xmlWriter" ],
+	"name" : "EssXMLExporter",
+	"pools" : [
+		 ],
+	"super" : "EssVisitor",
+	"type" : "normal" }

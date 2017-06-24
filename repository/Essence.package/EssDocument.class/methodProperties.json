@@ -3,13 +3,13 @@
 		"fromFile:" : "JulienDelplanque 6/24/2017 09:24:50",
 		"fromXMLDocument:" : "JulienDelplanque 6/24/2017 09:40" },
 	"instance" : {
+		"acceptVisitor:" : "JulienDelplanque 6/24/2017 09:46",
 		"addCar:" : "JulienDelplanque 6/24/2017 09:24:50",
 		"allRefuellings" : "JulienDelplanque 6/24/2017 09:24:50",
-		"asXML" : "JulienDelplanque 6/24/2017 09:24:50",
+		"asXML" : "JulienDelplanque 6/24/2017 09:56",
 		"carNamed:" : "JulienDelplanque 6/24/2017 09:24:50",
 		"cars" : "JulienDelplanque 6/24/2017 09:24:50",
 		"cars:" : "JulienDelplanque 6/24/2017 09:24:50",
 		"costPerYear" : "JulienDelplanque 6/24/2017 09:24:50",
 		"removeCar:" : "JulienDelplanque 6/24/2017 09:24:50",
-		"writeInFile:" : "JulienDelplanque 6/24/2017 09:24:50",
-		"writeXMLOn:" : "JulienDelplanque 6/24/2017 09:24:50" } }
+		"writeInFile:" : "JulienDelplanque 6/24/2017 09:24:50" } }

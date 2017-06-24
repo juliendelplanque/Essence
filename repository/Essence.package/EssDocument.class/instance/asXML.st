@@ -1,10 +1,6 @@
-xml
+converting
 asXML
-	| writer |
-	writer := XMLWriter new.
-	writer
-		enablePrettyPrinting;
-		lineBreak: Smalltalk os lineEnding;
-		xml.
-	self writeXMLOn: writer.
-	^ writer contents
+	| vis |
+	vis := EssXMLExporter new.
+	self acceptVisitor: vis.
+	^ vis contents

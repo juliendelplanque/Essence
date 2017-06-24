@@ -2,6 +2,7 @@
 	"class" : {
 		"fromXMLElement:" : "JulienDelplanque 6/24/2017 09:40" },
 	"instance" : {
+		"acceptVisitor:" : "JulienDelplanque 6/24/2017 09:46",
 		"addRefuelling:" : "JulienDelplanque 6/24/2017 09:24:50",
 		"addRefuellingWithVolume:cost:date:km:" : "JulienDelplanque 6/24/2017 09:40",
 		"carName" : "JulienDelplanque 6/24/2017 09:24:50",
@@ -15,6 +16,5 @@
 		"refuellingsByMonth" : "JulienDelplanque 6/24/2017 09:24:50",
 		"refuellingsByYear" : "JulienDelplanque 6/24/2017 09:24:50",
 		"removeRefuelling:" : "JulienDelplanque 6/24/2017 09:24:50",
-		"writeXMLOn:" : "JulienDelplanque 6/24/2017 09:24:50",
 		"year" : "JulienDelplanque 6/24/2017 09:24:50",
 		"year:" : "JulienDelplanque 6/24/2017 09:24:50" } }
