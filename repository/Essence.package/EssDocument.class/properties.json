@@ -4,13 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 5/22/2016 21:20",
+	"commentStamp" : "JulienDelplanque 5/22/2016 22:48",
 	"instvars" : [
-		"date",
-		"volume",
-		"cost",
-		"km" ],
-	"name" : "Refuelling",
+		"cars" ],
+	"name" : "EssDocument",
 	"pools" : [
 		 ],
 	"super" : "Object",

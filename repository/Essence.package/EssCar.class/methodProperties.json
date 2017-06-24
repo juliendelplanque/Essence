@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"fromXMLElement:" : "JulienDelplanque 6/24/2017 09:40" },
+	"instance" : {
+		"addRefuelling:" : "JulienDelplanque 6/24/2017 09:24:50",
+		"addRefuellingWithVolume:cost:date:km:" : "JulienDelplanque 6/24/2017 09:40",
+		"carName" : "JulienDelplanque 6/24/2017 09:24:50",
+		"carName:" : "JulienDelplanque 6/24/2017 09:24:50",
+		"consumptionEstimation" : "JulienDelplanque 6/24/2017 09:24:50",
+		"costPerMonth" : "JulienDelplanque 6/24/2017 09:24:50",
+		"costPerYear" : "JulienDelplanque 6/24/2017 09:24:50",
+		"initialize" : "JulienDelplanque 6/24/2017 09:24:50",
+		"refuellings" : "JulienDelplanque 6/24/2017 09:24:50",
+		"refuellings:" : "JulienDelplanque 6/24/2017 09:24:50",
+		"refuellingsByMonth" : "JulienDelplanque 6/24/2017 09:24:50",
+		"refuellingsByYear" : "JulienDelplanque 6/24/2017 09:24:50",
+		"removeRefuelling:" : "JulienDelplanque 6/24/2017 09:24:50",
+		"writeXMLOn:" : "JulienDelplanque 6/24/2017 09:24:50",
+		"year" : "JulienDelplanque 6/24/2017 09:24:50",
+		"year:" : "JulienDelplanque 6/24/2017 09:24:50" } }

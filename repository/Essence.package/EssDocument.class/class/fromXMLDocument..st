@@ -2,5 +2,5 @@ instance creation
 fromXMLDocument: anXMLDocument
 	^ self new
 		cars: ((anXMLDocument elementAt: 'essence')
-					elementsCollect: [ :element | Car fromXMLElement: element ]) asOrderedCollection;
+					elementsCollect: [ :element | EssCar fromXMLElement: element ]) asOrderedCollection;
 		yourself

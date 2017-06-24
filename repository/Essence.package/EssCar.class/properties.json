@@ -9,7 +9,7 @@
 		"carName",
 		"year",
 		"refuellings" ],
-	"name" : "Car",
+	"name" : "EssCar",
 	"pools" : [
 		 ],
 	"super" : "Object",
