@@ -12,5 +12,5 @@
 	"name" : "EssCar",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "EssVisitable",
 	"type" : "normal" }

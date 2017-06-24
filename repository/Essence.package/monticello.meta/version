@@ -1,2 +1,2 @@
-(name 'Essence-JulienDelplanque.20' message 'Extracted exportation methods to replace them with a specific visitor.' id 'b8b42e2e-45c4-4a0a-b302-46bb41a06d1d' date '24 June 2017' time '9:59:17.513354 am' author 'JulienDelplanque' ancestors ((name 'Essence-JulienDelplanque.19' message 'Renamed classes with ''Ess'' prefix.
-' id 'bddf2037-d592-5a51-a1ce-8c6e41a98234' date '24 June 2017' time '9:41:30 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())
+(name 'Essence-JulienDelplanque.21' message 'Added abstract super class for model objects.' id '9faac07b-e351-4b11-be0b-4ad9f32cc348' date '24 June 2017' time '10:02:15.830054 am' author 'JulienDelplanque' ancestors ((name 'Essence-JulienDelplanque.20' message 'Extracted exportation methods to replace them with a specific visitor.
+' id '63d620b6-763e-58f8-90d9-609d35e2c820' date '24 June 2017' time '9:59:17 am' author 'JulienDelplanque' ancestors () stepChildren ())) stepChildren ())

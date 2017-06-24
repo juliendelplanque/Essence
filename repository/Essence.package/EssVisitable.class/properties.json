@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "JulienDelplanque 5/22/2016 22:48",
+	"commentStamp" : "JulienDelplanque 6/24/2017 10:01",
 	"instvars" : [
-		"cars" ],
-	"name" : "EssDocument",
+		 ],
+	"name" : "EssVisitable",
 	"pools" : [
 		 ],
-	"super" : "EssVisitable",
+	"super" : "Object",
 	"type" : "normal" }
