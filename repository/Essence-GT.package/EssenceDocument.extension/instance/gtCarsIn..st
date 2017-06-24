@@ -5,4 +5,6 @@ gtCarsIn: aComposite
 		title: 'Cars';
 		display: [ self cars ];
 		column: 'Name'
-			evaluated: [ :each | GTObjectPrinter new asTruncatedTextFrom: each carName ]
+			evaluated: [ :each | each carName ];
+		column: 'L/100km'
+			evaluated: [ :each | (each consumptionEstimation printShowingDecimalPlaces: 2) ]
