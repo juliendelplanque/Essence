@@ -7,4 +7,4 @@ gtCarsIn: aComposite
 		column: 'Name'
 			evaluated: [ :each | each carName ];
 		column: 'L/100km'
-			evaluated: [ :each | (each consumptionEstimation printShowingDecimalPlaces: 2) ]
+			evaluated: [ :each | (each consumptionEstimation value printShowingDecimalPlaces: 2) ]
