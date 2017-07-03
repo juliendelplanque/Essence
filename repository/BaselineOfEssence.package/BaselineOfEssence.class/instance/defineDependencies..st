@@ -1,4 +1,5 @@
 baseline
 defineDependencies: spec
 	self
-		xmlParser: spec
+		xmlParser: spec;
+		units: spec
