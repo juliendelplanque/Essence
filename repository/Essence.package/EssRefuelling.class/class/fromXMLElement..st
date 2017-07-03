@@ -5,6 +5,6 @@ fromXMLElement: anXMLElement
 		date: (anXMLElement contentStringAt: 'date') asDate;
 		km: ((anXMLElement contentStringAt: 'km') = ''
 					ifTrue: [ nil ]
-					ifFalse: [ (anXMLElement contentStringAt: 'km') asNumber ]);
-		volume: (anXMLElement contentStringAt: 'volume') asNumber;
+					ifFalse: [ (anXMLElement contentStringAt: 'km') asNumber km ]);
+		volume: (anXMLElement contentStringAt: 'volume') asNumber L;
 		yourself
