@@ -1,16 +1,15 @@
 {
-	"category" : "Essence",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/22/2016 21:23",
+	"super" : "EssVisitable",
+	"category" : "Essence",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"carName",
 		"year",
-		"refuellings" ],
+		"refuellings"
+	],
 	"name" : "EssCar",
-	"pools" : [
-		 ],
-	"super" : "EssVisitable",
-	"type" : "normal" }
+	"type" : "normal"
+}

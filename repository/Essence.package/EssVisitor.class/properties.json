@@ -1,14 +1,11 @@
 {
-	"category" : "Essence",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 6/24/2017 09:45",
-	"instvars" : [
-		 ],
-	"name" : "EssVisitor",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Essence",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EssVisitor",
+	"type" : "normal"
+}

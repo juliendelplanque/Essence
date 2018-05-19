@@ -1,13 +1,13 @@
 {
-	"commentStamp" : "JulienDelplanque 6/24/2017 09:58",
+	"commentStamp" : "JulienDelplanque 5/19/2018 16:39",
 	"super" : "EssVisitor",
 	"category" : "Essence",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"xmlWriter"
+		"writeStream"
 	],
-	"name" : "EssXMLExporter",
+	"name" : "EssMarkdownExporter",
 	"type" : "normal"
 }

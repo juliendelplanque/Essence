@@ -1,14 +1,13 @@
 {
-	"category" : "Essence",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "JulienDelplanque 5/22/2016 22:48",
-	"instvars" : [
-		"cars" ],
-	"name" : "EssDocument",
-	"pools" : [
-		 ],
 	"super" : "EssVisitable",
-	"type" : "normal" }
+	"category" : "Essence",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cars"
+	],
+	"name" : "EssDocument",
+	"type" : "normal"
+}
