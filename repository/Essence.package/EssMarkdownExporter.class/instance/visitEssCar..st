@@ -3,6 +3,9 @@ visitEssCar: anEssCar
 	self writeStream
 			<< '## ';
 			<< anEssCar carName;
+			<< ' (';
+			<< anEssCar year;
+			<< $);
 			<< Smalltalk os lineEnding;
 			<< Smalltalk os lineEnding;
 			<< '| Date | Volume (L) | Prix (e) | Kilométrage |';
