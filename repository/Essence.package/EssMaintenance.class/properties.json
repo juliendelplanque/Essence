@@ -1,16 +1,16 @@
 {
-	"commentStamp" : "JulienDelplanque 5/22/2016 21:23",
+	"commentStamp" : "JulienDelplanque 5/19/2018 16:50",
 	"super" : "EssVisitable",
 	"category" : "Essence",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"carName",
-		"year",
-		"refuellings",
-		"maintenances"
+		"date",
+		"km",
+		"items",
+		"cost"
 	],
-	"name" : "EssCar",
+	"name" : "EssMaintenance",
 	"type" : "normal"
 }

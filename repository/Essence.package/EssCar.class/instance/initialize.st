@@ -1,4 +1,6 @@
 initialization
 initialize
 	super initialize.
-	self refuellings: OrderedCollection new
+	self
+		refuellings: OrderedCollection new;
+		maintenances: OrderedCollection new

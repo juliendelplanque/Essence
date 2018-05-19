@@ -6,4 +6,7 @@ visitEssCar: anEssCar
 			tag: #year with: anEssCar year asString;
 			tag: #refuellings with: [ 
 				anEssCar refuellings do: [ :refulling |
-					refulling acceptVisitor: self ] ] ]
+					refulling acceptVisitor: self ] ];
+			tag: #maintenances with: [ 
+				anEssCar maintenances do: [ :maintenance |
+					maintenance acceptVisitor: self ] ] ]
